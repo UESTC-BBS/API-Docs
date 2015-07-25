@@ -1,2 +1,1 @@
-清水河畔手机客户端
-
+API 文档：https://github.com/UESTC-BBS/API-Docs/wiki/Mobcent-API
